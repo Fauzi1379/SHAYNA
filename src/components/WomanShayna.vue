@@ -34,7 +34,7 @@
             </div>
             <div class="product-item">
               <div class="pi-pic">
-                <img src="img/products/women-2.jpg" alt />
+                <img src="img/KERUDUNG_INSTAN_MASKER_BENTA_1.jpg" alt />
                 <ul>
                   <li class="w-icon active">
                     <a href="#">
@@ -42,14 +42,14 @@
                     </a>
                   </li>
                   <li class="quick-view">
-                    <a href="#">+ Quick View</a>
+                    <router-link to="/product">+ Quick View</router-link>
                   </li>
                 </ul>
               </div>
               <div class="pi-text">
                 <div class="catagory-name">Shoes</div>
-                <a href="#">
-                  <h5>Guangzhou sweater</h5>
+                <a href="">
+                  <h5>KERUDUNG INSTAN MASKER BENTA</h5>
                 </a>
                 <div class="product-price">$13.00</div>
               </div>
